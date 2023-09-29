@@ -1,0 +1,7 @@
+/.venv
+/__pycache__
+/back_tester_results.json
+/main.py
+/main_async.py
+/ta-lib
+/binance_data_cci.csv
